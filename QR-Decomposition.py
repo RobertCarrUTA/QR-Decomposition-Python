@@ -1,6 +1,6 @@
 # OS used/Python Version: Ubuntu (CSE VM 3.1.2) using Python 3.8.10
 
-# How to run: python3 problem3.py
+# How to run: QR-Decomposition QR-Decomposition.py
 
 import numpy as np
 from scipy import linalg
